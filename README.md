@@ -1,6 +1,6 @@
 # Project Overview
 
-This project is an AI-powered tool designed to generate professional, brand-specific landing pages quickly and efficiently. It allows users to input their brand guidelines, product details, and images to create visually appealing, responsive web pages. Built with Python and Streamlit, the project leverages Together AI to generate HTML/CSS code dynamically.
+- This project is an AI-powered tool designed to generate professional, brand-specific landing pages quickly and efficiently. It allows users to input their brand guidelines, product details, and images to create visually appealing, responsive web pages. Built with Python and Streamlit, the project leverages Together AI to generate HTML/CSS code dynamically.
 ---
 
 ## Features
