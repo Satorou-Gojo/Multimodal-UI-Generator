@@ -3,7 +3,7 @@ import requests
 import re
 import base64
 
-TOGETHER_API_KEY = "b9e77e5263676016d9a7fee7444de36277d4e16bd9521d9ae1ab4bf8c62eccb5"
+TOGETHER_API_KEY = "YOUR_API_KEY"
 
 def generate_landing_page(inputs, uploaded_files=[]):
     """Generate landing page HTML/CSS using Together AI."""
