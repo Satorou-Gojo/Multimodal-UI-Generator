@@ -34,7 +34,11 @@
   - `requests`: For API communication.
   - `base64`: For encoding uploaded images.
   - `re`: For placeholder replacements.
-### 3. Add Your API Key
+### 3. Add Your Together API Key (IMPORTANT!!!!)
+  - The API key shown in the video is already revoked.
+  - Sign in to https://api.together.xyz/
+  - Upon completing your Dashboard an API key will be generated with $ 1 bonus.
+  - Please note that if API key of any other platform is used, Changes will be required in code and it may not work.
 ### 4. Run the Application
   - streamlit run app.py
 ### 5. Steps to Generate a Landing Page
