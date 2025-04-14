@@ -34,7 +34,7 @@
   - `requests`: For API communication.
   - `base64`: For encoding uploaded images.
   - `re`: For placeholder replacements.
-### 3. Add Your Together API Key (IMPORTANT!!!!)
+### 3. Add Your Together API Key to backend.py (IMPORTANT!!!!)
   - The API key shown in the video is already revoked.
   - Sign in to https://api.together.xyz/
   - Upon completing your Dashboard an API key will be generated with $ 1 bonus.
